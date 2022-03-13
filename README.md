@@ -2,4 +2,4 @@
 Simple project in assembler code for Motorola 68000
 ## Author
 Sergi Moreno Pérez \
-Note: 10.88
+Mark: 10.88
